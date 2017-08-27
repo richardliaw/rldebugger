@@ -1,3 +1,4 @@
+"""Credit goes to https://gist.github.com/nirum/d4224ad3cd0d71bfef6eba8f3d6ffd59"""
 import os
 import numpy as np
 from moviepy.editor import ImageSequenceClip
